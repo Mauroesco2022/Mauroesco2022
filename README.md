@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mauricio Escobar
 
-<!--
-**Mauroesco2022/Mauroesco2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder and CEO of [Pivoti Labs](https://github.com/pivoti-labs), an SEO and web development agency based in Cali, Colombia.
 
-Here are some ideas to get you started:
+I lead the agency's SEO strategy, helping companies rank on Google and on AI search engines such as ChatGPT, Gemini and Claude through technical audits, indexing fixes, content and structured data. I also build websites, automations and custom software for our clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Background:** Multimedia Engineer, Master's in Financial Management, Specialization in Project Management.
+- **Certifications:** Certified Scrum Master · Google Project Management Professional Certificate · SEO Competitive Analysis Certification (Moz Academy).
+- **Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, n8n, Claude API.
+
+**Links:** [pivotilabs.com](https://www.pivotilabs.com) · [LinkedIn](https://www.linkedin.com/in/mauricio-escobar9) · contacto@pivotilabs.com
+
+---
+
+Ingeniero Multimedia y fundador de Pivoti Labs, agencia de SEO y desarrollo web en Cali, Colombia.
